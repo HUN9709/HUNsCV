@@ -126,7 +126,7 @@
 
 - 세포 프린팅을 위한 세포 임피던스 측정을 위해 개발
 - Web GUI는 React, Material UI를 사용함
-- Server는 backend : Django, fornt : npm 사용하여 개발
+- Server는 backend : Django, fornt : nodejs 사용하여 개발
 
 ![EIT1](./img/EIT1.jpg)
 ![EIT2](./img/EIT2.jpg)
