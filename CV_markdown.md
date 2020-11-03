@@ -74,4 +74,60 @@
 <br>
 
 - TOEIC : 700
-- 정보처리 산업기사
+- 정보처리 기사
+
+<br><br>
+
+## Development list
+<br>
+
+### 미세먼지 예측 프로젝트
+- 서울시 종로구의 15~19년도의 미세먼지 기상청 데이터로 진행
+- 기상청 데이터중 미세먼지와 관련있는 Feature를 골라 진행
+- 미세먼지 농도 분류문제에서 최대 75%의 정확도를 보임
+<br><br>
+![dustPrj](./img/dustProejct4.PNG)
+![dustPrj](./img/dustProejct3.PNG)
+![dustPrj](./img/dustProejct1.PNG)
+![dustPrj](./img/dustProejct2.PNG)
+
+<br><br>
+
+### Life Safty Monitoring Service
+- 치매노인, 장애우들의 실종률이 높다는 기사를 접하고, 이를 방지하기 위해 제작
+- GPS, 온도, 심박수 센서를 이용하여 기기 제작
+- React, Naver api app을 이용하여 Web GUI 만듬
+- MQTT 프로토콜, Mongo DB, nodejs 등을 사용하여 서버 구축
+<br><br>
+
+![dustPrj](./img/LSMS.png)
+
+### Life Safty Monitoring Service
+- 치매노인, 장애우들의 실종률이 높다는 기사를 접하고, 이를 방지하기 위해 제작
+- GPS, 온도, 심박수 센서를 이용하여 기기 제작
+- React, Naver api app을 이용하여 Web GUI 만듬
+- MQTT 프로토콜, Mongo DB, nodejs 등을 사용하여 서버 구축
+<br><br>
+
+### Real-Time Camera PCR Image processing
+
+- Photodiode 대신 Camera 를 사용한 Real-Time PCR Image 처리
+- Camera가 틀어짐을 고려하고 자동으로 중앙점을 찾아 4부분의 밝기를 자동으로 찾아주는것이 목적
+- Image Thresholding(Otsu), 잡음처리, 다양한 이미지분석을 통해 진행
+
+![PCR1](./img/PCR1.PNG)
+![PCR2](./img/PCR2.PNG)
+![PCR3](./img/PCR3.PNG)
+![PCR4](./img/PCR4.PNG)
+![PCR5](./img/PCR5.PNG)
+
+
+### EIT Web GUI 및 Server 개발
+
+- 세포 프린팅을 위한 세포 임피던스 측정을 위해 개발
+- Web GUI는 React, Material UI를 사용함
+- Server는 backend : Django, fornt : npm 사용하여 개발
+
+![EIT1](./img/EIT1.jpg)
+![EIT2](./img/EIT2.jpg)
+![EIT3](./img/EIT3.jpg)
