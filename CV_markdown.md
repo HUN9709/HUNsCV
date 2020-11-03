@@ -102,13 +102,6 @@
 
 ![dustPrj](./img/LSMS.png)
 
-### Life Safty Monitoring Service
-- 치매노인, 장애우들의 실종률이 높다는 기사를 접하고, 이를 방지하기 위해 제작
-- GPS, 온도, 심박수 센서를 이용하여 기기 제작
-- React, Naver api app을 이용하여 Web GUI 만듬
-- MQTT 프로토콜, Mongo DB, nodejs 등을 사용하여 서버 구축
-<br><br>
-
 ### Real-Time Camera PCR Image processing
 
 - Photodiode 대신 Camera 를 사용한 Real-Time PCR Image 처리
